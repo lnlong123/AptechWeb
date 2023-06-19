@@ -1,0 +1,146 @@
+.navbar-brand{
+    width: 15%;
+}
+
+.img-responsive{
+    width: 100%;
+}
+.dropdown-item{
+    font-size: 12px; 
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+ }
+ .nav-item{
+	padding-left:29px;
+	font-size:14px;
+	font-weight: bold;
+}
+.main-1{
+    overflow: auto;
+    padding:3%;   
+}
+
+.box1_main-1{
+    width: 45%;
+    float:left;
+    margin: 1%;
+    padding: 2%;
+}
+.box2_main-1{
+    border-left:  5px solid orange;
+    margin: 0 4%;
+    padding: 0 3%;
+}
+.main-2{
+    background-image: url(../images/bg-4.jpg);
+    overflow: auto;
+    padding:2%;   
+}
+
+.btn{
+    border-radius: 5px;
+    width:100%;
+}
+.box1_main-2{
+    width: 45%;
+    float:left;
+    margin: 2%;
+    padding: 5%;
+}
+.box1_main-2 h2{
+    border: 1px solid white;
+}
+.main-3{
+    padding: 6% ;
+    overflow: auto;
+}
+.box_main-3{
+    border: 1px solid rgb(138, 121, 121);
+    width: 28%;
+    float:left;
+    margin: 2%;
+}
+.box-1{
+    width: 90%;
+    margin: 5% 5%;
+}
+.box-2 {
+    margin: 0 5%;
+}
+.main-4{
+    background-image: url(../images/bg-4.jpg);
+    overflow: auto;
+    padding: 3%;
+}
+.box1_main-4{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.box1_main-4{
+    width: 43%;
+    float:left;
+    margin: 2%;
+    padding: 1%;
+}
+.box2_main-4{
+    padding: 2%;
+}
+.box2_main-4-img{
+    width:24%;
+    float: left;
+    margin: 2%;
+    background-color: white;
+    border-radius: 50%;
+}
+.main-5{
+    padding: 3%;
+}
+.main-6{
+    background-color: whitesmoke;
+    overflow: auto;   
+}
+
+.box1_main-6{
+    width: 45%;
+    float:left;
+    margin: 1%;
+    padding: 3%;
+}
+.main-7{
+    overflow:auto;
+}
+.main-8{
+    overflow: auto;
+    background-color: whitesmoke;
+}
+.main-9{
+    overflow: auto;
+}
+.main-10{
+    background-image: url(../images/bg-4.jpg);
+    padding: 5%;
+}
+.img1 img { 
+
+	transition: all 1s; /** Tạo độ mượt **/ } 
+.img1 img:hover{
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03);
+}
+.box1_main-10{
+    padding: 2%;
+}
+.col:hover{
+    color: blue;
+}
+.main-11{
+    padding: 3%;
+}
+.main-12{
+    padding: 5%;
+}
+.footer1{
+    background-color: darkblue;
+}

@@ -1,0 +1,148 @@
+.navbar-brand{
+    width: 15%;
+}
+
+.img-responsive{
+    width: 100%;
+}
+.main-1{
+    padding: 6% ;
+    overflow: auto;
+}
+.box_main-1{
+    border: 1px solid rgb(138, 121, 121);
+    width: 28%;
+    float:left;
+    margin: 2%;
+}
+.box-1{
+    width: 90%;
+    margin: 5% 5%;
+}
+.main-2{
+    background-image: url(../images/bg-aptech.jpg);
+    overflow: auto;
+    padding:2%;   
+}
+.box-2 {
+    margin: 0 5%;
+}
+.btn{
+    border-radius: 5px;
+    width:100%;
+}
+.box1_main-2{
+    width: 40%;
+    float:left;
+    margin: 5%;
+    padding: 3%;
+}
+.box1_main-2 h4{
+    border: 1px solid rgb(121, 121, 8);
+}
+.box2_main-2{
+    width: 21%;
+    float:left;
+    margin: 2%;
+}
+.main-3{
+    overflow: auto;
+    padding: 8%;
+}
+.box1_main-3{
+    border-right: 5px solid orange;
+    width: 30%;
+    float:left;
+    padding: 3%;
+}
+.box2_main-3{
+    width: 70%;
+    float:left;
+    padding: 3%;
+}
+.box3_main-3{
+    padding:1%;
+}
+.box1_main-4{
+    width: 45%;
+    float:left;
+    padding: 3%;
+}
+.box2_main-4{
+    padding: 2%;
+}
+.box2_main-4-img{
+    width:24%;
+    float: left;
+    margin: 2%;
+    background-color: white;
+    border-radius: 50%;
+}
+.main-4{
+    background-image: url(../images/bg-2.jpg);
+    padding:2%;
+    overflow: auto;
+}
+.box3_main-5{
+    padding: 2%;
+}
+.box2_main-5{
+    padding: 1%;
+}
+.main-5{
+    padding: 8%;
+    background-image: url(../images/bg-3.png);
+}
+.main-6{
+    border: 1px solid red;
+    background-image: url(../images/bg-4.jpg);
+    overflow: auto;
+    padding: 3%;
+}
+.box1_main-6{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.box1_main-6{
+    width: 43%;
+    float:left;
+    margin: 2%;
+    padding: 1%;
+}
+.box2_main-6{
+    padding: 2%;
+}
+.main-7{
+    background-color: whitesmoke;
+    padding: 3%;
+}
+.main-8{
+    padding: 5%;
+}
+.footer1{
+    background-color: darkblue;
+}
+.size1{
+    color:blue;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img1 img { 
+
+	transition: all 1s; /** Tạo độ mượt **/ } 
+.img1 img:hover{
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03);
+}
+.dropdown-item{
+    font-size: 12px; 
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+ }
+ .nav-item{
+	padding-left:29px;
+	font-size:14px;
+	font-weight: bold;
+}
